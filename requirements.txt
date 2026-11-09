@@ -1,0 +1,2 @@
+# No external packages required — this project runs on the Python 3.10+ standard library only.
+# Just install Python and run: python app.py
