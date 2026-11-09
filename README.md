@@ -39,7 +39,7 @@ Answering email eats hours every week for freelancers, sellers and small busines
 
 ```bash
 # 1. Clone
-git clone https://github.com/Hasnaat33/ai-email-reply-generator.git
+git clone https://github.com/hasnaat-anjum/ai-email-reply-generator.git
 cd ai-email-reply-generator
 
 # 2a. Try the built-in example
@@ -106,4 +106,4 @@ Square-bracket placeholders mark the only spots that need your real numbers — 
 MIT — free to use, modify and share.
 
 ---
-Built by [Hasnaat Anjum](https://github.com/Hasnaat33) — AI Automation | Digital Marketing | SEO | eBay Dropshipping | Frontend Developer
+Built by [Hasnaat Anjum](https://github.com/hasnaat-anjum) — AI Automation | Digital Marketing | SEO | eBay Dropshipping | Frontend Developer
